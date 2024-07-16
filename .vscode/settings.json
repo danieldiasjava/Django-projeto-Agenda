@@ -1,0 +1,27 @@
+{
+        "editor.fontSize": 18,
+        "window.zoomLevel": 1,
+        "explorer.confirmDelete": false,
+        "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+        "git.openRepositoryInParentFolders": "never",
+        "explorer.compactFolders": false,
+        "code-runner.runInTerminal": true,
+        "code-runner.clearPreviousOutput": true,
+        "code-runner.executorMap": {
+            "python": "cls ; python -u",
+        },
+        "code-runner.ignoreSelection": true,
+        "workbench.iconTheme": "material-icon-theme",
+        "python.defaultInterpreterPath": "python",
+        "explorer.confirmDragAndDrop": false,
+        "python.createEnvironment.trigger": "off",
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true,
+        "[django-html]": {
+            "editor.quickSuggestions": {
+                "other": true,
+                "comments": true,
+                "strings": true
+            }
+        }, 
+}
